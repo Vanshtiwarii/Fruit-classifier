@@ -1,2 +1,2 @@
 # Fruit-classifier
-This is a tensorfow model to classify projects.
+This is a tensorfow model to classify fruits.
